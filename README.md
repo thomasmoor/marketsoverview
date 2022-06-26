@@ -1,4 +1,4 @@
-# Markets Overview
+# Financial Markets Overview
 Get a Financial Markets Overview by selecting a combination of Indices, Stocks, currencies, crypto currencies and ETFs.
 
 Enter a list of Financial Markets symbols like MSFT for Microsoft stock, EURUSD=X for Euro Dollar Exchange Rate.
